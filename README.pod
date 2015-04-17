@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 ABOUT
+
+IPC-Run example for ZadYree.
+
+=cut
